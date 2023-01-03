@@ -1,4 +1,8 @@
 # Navtours
+
+Nevtours is a website built using SASS to showcase some beautiful places you can vacation at within Nevada outside of Las Vegas. The website replicates that of a vacation website showcasing several real locations all within Nevada, with links to the state parks of Nevada included for further reference.
+
+
 What was your motivation? I wanted to learn how to use SASS in a practical manner for future website development. 
 Why did you build this project? I built this website to help myself learn SASS and how to organize CSS, I love the state of Nevada so wanted to show case some of the beautiful places most people dont think about when they think of Nevada.
 What problem does it solve? This website solves orgnaization problems with CSS, CSS can easily become messy with a lot of code, using SASS it allows me to keep the website clean on the coding side with seperate files and folders for each coding type. This would make it easy to read for anyone who has experience with SASS. 
